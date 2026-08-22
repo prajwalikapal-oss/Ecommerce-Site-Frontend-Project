@@ -19,7 +19,7 @@
 }
 
 .logo2 {
-    background-image: url(AmazonLogo.png);
+    background-image: url(EcommerceLogo.png);
     background-size: cover;
     background-color: #0f1111;
     height: 50px;
@@ -272,7 +272,7 @@ ul a{
 }
 
 .logo{
-    background-image: url("AmazonLogo.png");
+    background-image: url("EcommerceLogo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -806,7 +806,7 @@ align-items:center;
     background-position: center;
 }
 
-/* AMAZON FADE EFFECT */
+/* Ecommerce FADE EFFECT */
 .hero-section::after {
     content: "";
     position: absolute;
